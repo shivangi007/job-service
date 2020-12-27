@@ -51,16 +51,18 @@ def heath_check():
     return 'everything looks good!'
 
 
-# solution for stage 2
 
 
-"""
+
+
 @app.route('/jobs/next', methods=['DELETE'])
 def deleteOne():
     jobsQueue.get()
     print(jobsQueue.queue)
     return "success"
 
+# solution for stage 2
+"""
 @app.route('/jobs/next', methods=['PATCH'])
 def patchOne():
     payload = request.get_json()
