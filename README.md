@@ -16,4 +16,4 @@ Prerequisites
   for a single line command you can also do cd <User-path>/job-service; python app.py
   
   
-  NOTE: If you have two versions of python in your system, please make sure to use the appropriate alis for python 3
+  NOTE: If you have two versions of python in your system, please make sure to use the appropriate alias for python 3
