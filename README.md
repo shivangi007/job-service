@@ -12,6 +12,7 @@ Prerequisites
   
   Navigate to http://127.0.0.1:5000/ to make sure we get the following message: 
 	Hi! we are now up and ready to work!
+please leave this page open, for the worker method to keep running which faciliatates the time out functionality 
   
   for a single line command you can also do `cd <User-path>/job-service; python app.py`
   
